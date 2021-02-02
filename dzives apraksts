@@ -1,1 +1,32 @@
 #Dzives apraksts
+Citats: Kapec vajag jāsasprindzina tur, kur var var tikt galā tehnologiji @Masaru Enacu
+Kods:
+'''izvade
+linux penguin
+    .---.
+   /     \
+   \.@-@./
+   /`\_/`\
+  //  _  \\
+ | \     )|_
+/`\_`>  <_/ \
+\__/'---'\__/
+'''
+import os
+print('    .---.')
+print('   /     \ ')
+print('   \.@-@./')
+print('   /`\_/`\ ')
+print('  //  _  \\')
+print(' | \     )|_')
+print('/`\_`>  <_/ \ ')
+print('\__/ --- \__/')
+os.system("Pause")
+saraksts ar tabulu:Yes(x) Medium(xx) No(xxx)
+|Matematika   | (xx) |
+|Anglu valoda |(x)   |
+|Algoritmesana|  (xx)|
+|Lat.val      | (xxx)| 
+|Fizika       | (xx) |
+----------------------
+emoji:( ͡° ͜ʖ ͡°)
